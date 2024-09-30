@@ -30,5 +30,12 @@ Overs played: 18
 
 
 '''
-print(Team 1):
-a=input("Team Name:\n"):
+a=print("Team 1:)
+b=input("Team Name:\n")
+c=input("score:\n)
+d=input("overs played:\n")
+e=print("Team 2:")
+f=input("Team Name:\n")
+g=input("score:\n")
+h=input("overs Played:\n)
+print("match details:\n,"team 1:\n,"name:\n,b"\nscore:",c,"\novers played:",\nteam 2:",f,"\nscore:",g,"\novers played:",h
